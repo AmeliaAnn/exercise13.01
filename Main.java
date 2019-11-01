@@ -26,7 +26,7 @@ public class Main {
       System.out.println(s2);
 
    }
-     String is_equl = (s1 == s2) ? "Строки равны" : " ";
+     String is_equl = (len1 == len2) ? "Строки равны" : " ";
      System.out.println(is_equl);
 
        }
